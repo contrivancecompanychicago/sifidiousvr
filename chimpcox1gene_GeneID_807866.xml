@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Record
+    xmlns="http://pubchem.ncbi.nlm.nih.gov/pug_view"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema-instance"
+    xs:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_view https://pubchem.ncbi.nlm.nih.gov/pug_view/pug_view.xsd"
+>
+  <RecordType>NCBI Gene</RecordType>
+  <RecordAccession>807866</RecordAccession>
+  <RecordTitle>COX1 - cytochrome c oxidase subunit I (chimpanzee)</RecordTitle>
+  <RecordExternalURL>https://www.ncbi.nlm.nih.gov/gene/807866</RecordExternalURL>
+  <Section>
+    <TOCHeading>Gene Information</TOCHeading>
+    <Description>General information about a gene target</Description>
+    <DisplayControls>
+      <HideThisSection>true</HideThisSection>
+    </DisplayControls>
+    <Section>
+      <TOCHeading>Symbol</TOCHeading>
+      <Description>Official gene symbol provided by NCBI Gene, HGNC, or others</Description>
+      <DisplayControls>
+        <MoveToTop>true</MoveToTop>
+      </DisplayControls>
+      <Information>
+        <ReferenceNumber>1</ReferenceNumber>
+        <Value>
+          <StringWithMarkup>
+            <String>COX1</String>
+            <Markup>
+              <Start>0</Start>
+              <Length>4</Length>
+              <URL>/gene/COX1</URL>
+            </Markup>
+          </StringWithMarkup>
+        </Value>
+      </Information>
+    </Section>
+    <Section>
+      <TOCHeading>Taxonomy</TOCHeading>
+      <Description>Organism</Description>
+      <DisplayControls>
+        <MoveToTop>true</MoveToTop>
+      </DisplayControls>
+      <Information>
+        <ReferenceNumber>1</ReferenceNumber>
+        <URL>https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=9598</URL>
+        <Value>
+          <StringWithMarkup>
+            <String>Pan troglodytes (chimpanzee)</String>
+          </StringWithMarkup>
+        </Value>
+      </Information>
+    </Section>
+    <Section>
+      <TOCHeading>Create Date</TOCHeading>
+      <Description>Date this record was initially added to PubChem</Description>
+      <DisplayControls>
+        <MoveToTop>true</MoveToTop>
+      </DisplayControls>
+      <Information>
+        <ReferenceNumber>2</ReferenceNumber>
+        <Value>
+          <DateISO8601>2018-08-13</DateISO8601>
+        </Value>
+      </Information>
+    </Section>
+    <Section>
+      <TOCHeading>Modify Date</TOCHeading>
+      <Description>Date this record was last updated in PubChem</Description>
+      <DisplayControls>
+        <MoveToTop>true</MoveToTop>
+      </DisplayControls>
+      <Information>
+        <ReferenceNumber>2</ReferenceNumber>
+        <Value>
+          <DateISO8601>2020-03-02</DateISO8601>
+        </Value>
+      </Information>
+    </Section>
+  </Section>
+  <Section>
+    <TOCHeading>Proteins</TOCHeading>
+    <Description>Information on proteins encoded by this gene</Description>
+    <Section>
+      <TOCHeading>Protein Function</TOCHeading>
+      <Description>Function of protein</Description>
+      <Information>
+        <ReferenceNumber>4</ReferenceNumber>
+        <Value>
+          <StringWithMarkup>
+            <String>Cytochrome c oxidase is the component of the respiratory chain that catalyzes the reduction of oxygen to water. Subunits 1-3 form the functional core of the enzyme complex. CO I is the catalytic subunit of the enzyme. Electrons originating in cytochrome c are transferred via the copper A center of subunit 2 and heme A of subunit 1 to the bimetallic center formed by heme A3 and copper B (By similarity).</String>
+          </StringWithMarkup>
+        </Value>
+      </Information>
+    </Section>
+    <Section>
+      <TOCHeading>Protein Domains</TOCHeading>
+      <Description>A protein domain is a region of a protein that can adopt a particular 3-D structure and usually performs a function.  Many proteins contain multiple domains, each of which is responsible for a particular function or interaction, contributing to the overall role of a protein</Description>
+      <Section>
+        <TOCHeading>Pfam Domains</TOCHeading>
+        <Description>Domain annotation from Pfam</Description>
+        <URL>http://pfam.xfam.org/</URL>
+        <DisplayControls>
+          <ListType>Bulleted</ListType>
+        </DisplayControls>
+        <Information>
+          <ReferenceNumber>3</ReferenceNumber>
+          <Value>
+            <StringWithMarkup>
+              <String>Cytochrome C and Quinol oxidase polypeptide I</String>
+              <Markup>
+                <Start>0</Start>
+                <Length>45</Length>
+                <URL>http://pfam.xfam.org/family/PF00115</URL>
+              </Markup>
+            </StringWithMarkup>
+          </Value>
+        </Information>
+      </Section>
+    </Section>
+  </Section>
+  <Section>
+    <TOCHeading>Literature</TOCHeading>
+    <Description>Literature information associated with this target</Description>
+    <Section>
+      <TOCHeading>Gene-Chemical Co-Occurrences in Literature</TOCHeading>
+      <Description>Gene-chemical co-occurrences in literature highlight gene-chemcial pairs mentioned together in scientific articles. This may suggest an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of publications and other statistics, with the most relevant mentions appearing at the top.</Description>
+      <URL>https://pubchemdocs.ncbi.nlm.nih.gov/knowledge-panels</URL>
+      <DisplayControls>
+        <ShowAtMost>3</ShowAtMost>
+      </DisplayControls>
+      <Information>
+        <ReferenceNumber>2</ReferenceNumber>
+        <Name>Co-Occurrence Panel</Name>
+        <Value>
+          <StringWithMarkup>
+            <String>GeneSymbolChemicalNeighbor</String>
+          </StringWithMarkup>
+          <StringWithMarkup>
+            <String>Chemical</String>
+          </StringWithMarkup>
+          <StringWithMarkup>
+            <String>GeneSymbolName</String>
+          </StringWithMarkup>
+          <StringWithMarkup>
+            <String>ChemicalName</String>
+          </StringWithMarkup>
+          <StringWithMarkup>
+            <String>SUMMARY_URL.cid</String>
+          </StringWithMarkup>
+          <StringWithMarkup>
+            <String>GeneSymbol</String>
+          </StringWithMarkup>
+          <StringWithMarkup>
+            <String>CID</String>
+          </StringWithMarkup>
+          <StringWithMarkup>
+            <String>COX1</String>
+          </StringWithMarkup>
+        </Value>
+      </Information>
+    </Section>
+    <Section>
+      <TOCHeading>Gene-Gene Co-Occurrences in Literature</TOCHeading>
+      <Description>Gene-gene co-occurrences in literature highlight gene-&apos;gene&apos; pairs mentioned together in scientific articles. Note that a co-occurring &apos;gene&apos; entity is organism non-specific and could refer to a gene, protein, or enzyme. This may suggest an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of publications and other statistics, with the most relevant mentions appearing at the top.</Description>
+      <URL>https://pubchemdocs.ncbi.nlm.nih.gov/knowledge-panels</URL>
+      <DisplayControls>
+        <ShowAtMost>3</ShowAtMost>
+      </DisplayControls>
+      <Information>
+        <ReferenceNumber>2</ReferenceNumber>
+        <Name>Co-Occurrence Panel</Name>
+        <Value>
+          <StringWithMarkup>
+            <String>GeneSymbolNeighbor</String>
+          </StringWithMarkup>
+          <StringWithMarkup>
+            <String>Gene/Protein/Enzyme</String>
+          </StringWithMarkup>
+          <StringWithMarkup>
+            <String>GeneSymbolName_1</String>
+          </StringWithMarkup>
+          <StringWithMarkup>
+            <String>GeneSymbolName_2</String>
+          </StringWithMarkup>
+          <StringWithMarkup>
+            <String>SUMMARY_URL.geneid</String>
+          </StringWithMarkup>
+          <StringWithMarkup>
+            <String>GeneSymbol</String>
+          </StringWithMarkup>
+          <StringWithMarkup>
+            <String>GeneSymbol</String>
+          </StringWithMarkup>
+          <StringWithMarkup>
+            <String>COX1</String>
+          </StringWithMarkup>
+        </Value>
+      </Information>
+    </Section>
+    <Section>
+      <TOCHeading>Gene-Disease Co-Occurrences in Literature</TOCHeading>
+      <Description>Gene-disease co-occurrences in literature highlight gene-disease pairs mentioned together in scientific articles. This may suggest an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of publications and other statistics, with the most relevant mentions appearing at the top.</Description>
+      <URL>https://pubchemdocs.ncbi.nlm.nih.gov/knowledge-panels</URL>
+      <DisplayControls>
+        <ShowAtMost>3</ShowAtMost>
+      </DisplayControls>
+      <Information>
+        <ReferenceNumber>2</ReferenceNumber>
+        <Name>Co-Occurrence Panel</Name>
+        <Value>
+          <StringWithMarkup>
+            <String>GeneSymbolDiseaseNeighbor</String>
+          </StringWithMarkup>
+          <StringWithMarkup>
+            <String>Disease</String>
+          </StringWithMarkup>
+          <StringWithMarkup>
+            <String>GeneSymbolName</String>
+          </StringWithMarkup>
+          <StringWithMarkup>
+            <String>DiseaseName</String>
+          </StringWithMarkup>
+          <StringWithMarkup>
+            <String>https://meshb.nlm.nih.gov/record/ui?ui=</String>
+          </StringWithMarkup>
+          <StringWithMarkup>
+            <String>GeneSymbol</String>
+          </StringWithMarkup>
+          <StringWithMarkup>
+            <String>MeSH</String>
+          </StringWithMarkup>
+          <StringWithMarkup>
+            <String>COX1</String>
+          </StringWithMarkup>
+        </Value>
+      </Information>
+    </Section>
+  </Section>
+  <Reference>
+    <ReferenceNumber>1</ReferenceNumber>
+    <SourceName>NCBI Gene</SourceName>
+    <SourceID>807866</SourceID>
+    <URL>https://www.ncbi.nlm.nih.gov/gene/807866</URL>
+    <LicenseNote>NCBI Website and Data Usage Policies and Disclaimers</LicenseNote>
+    <LicenseURL>https://www.ncbi.nlm.nih.gov/home/about/policies/</LicenseURL>
+  </Reference>
+  <Reference>
+    <ReferenceNumber>2</ReferenceNumber>
+    <SourceName>PubChem</SourceName>
+    <SourceID>PubChem</SourceID>
+    <Description>Data deposited in or computed by PubChem</Description>
+    <URL>https://pubchem.ncbi.nlm.nih.gov</URL>
+  </Reference>
+  <Reference>
+    <ReferenceNumber>3</ReferenceNumber>
+    <SourceName>Pfam</SourceName>
+    <SourceID>Q9T9W1::Gene</SourceID>
+    <Description>The Pfam database is a large collection of protein families, each represented by multiple sequence alignments and hidden Markov models (HMMs)</Description>
+    <URL>http://pfam.xfam.org/protein/Q9T9W1</URL>
+    <LicenseNote>Pfam is freely available under the Creative Commons Zero (&quot;CC0&quot;) licence (https://creativecommons.org/publicdomain/zero/1.0/).</LicenseNote>
+    <LicenseURL>http://pfam.xfam.org/about</LicenseURL>
+    <ANID>7639769</ANID>
+  </Reference>
+  <Reference>
+    <ReferenceNumber>4</ReferenceNumber>
+    <SourceName>UniProt</SourceName>
+    <SourceID>Q9T9W1::Gene</SourceID>
+    <Description>The mission of UniProt is to provide the scientific community with a comprehensive, high-quality and freely accessible resource of protein sequence and functional information.</Description>
+    <URL>https://www.uniprot.org/uniprot/Q9T9W1</URL>
+    <LicenseNote>We have chosen to apply the Creative Commons Attribution (CC BY 4.0, http://creativecommons.org/licenses/by/4.0/) License to all copyrightable parts of our databases.</LicenseNote>
+    <LicenseURL>https://www.uniprot.org/help/license</LicenseURL>
+    <ANID>3288011</ANID>
+  </Reference>
+</Record>
