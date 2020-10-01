@@ -1,0 +1,36 @@
+// Variables used by Scriptable.
+// These must be at the very top of the file. Do not edit.
+// always-run-in-app: true; icon-color: pink;
+// icon-glyph: magic; share-sheet-inputs: plain-text, image, url, file-url;
+var twitterWalgreens;
+twitterWalgreens;
+var twitterCVSPharmacy;
+twitterCVSPharmacy;
+var twitterWalmart;
+twitterWalmart;
+var twitterMedication;
+twitterMedication;
+var twitterInsulin;
+twitterInsulin;
+var twitterDiabetes;
+twitterDiabetes;
+var twitterPatients;
+twitterPatients;
+var twitterAdvocateMedicalGroup;
+twitterAdvocateMedicalGroup;
+var walgreensAudiences;
+walgreensAudiences;
+var patientAudiences;
+patientAudiences;
+var mediaSocialWalgreens;
+mediaSocialWalgreens;
+var patientROI;
+patientROI;
+var mediaSocialHealth;
+mediaSocialHealth;
+var mediaSocialDiabetes;
+mediaSocialDiabetes;
+var walgreensFunnel;
+walgreensFunnel;
+var patientFunnel;
+patientFunnel;
